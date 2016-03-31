@@ -1,4 +1,4 @@
-# Guard::Shopifytheme
+# Guard::Shopifytheme nnnnnnn
 [![Build Status](https://travis-ci.org/dannysmith/guard-shopifytheme.png?branch=master)](https://travis-ci.org/dannysmith/guard-shopifytheme) [![Gem Version](https://badge.fury.io/rb/guard-shopifytheme.png)](http://badge.fury.io/rb/guard-shopifytheme)
 
 Uses [Guard](https://github.com/guard/guard) to watch for changes and update Shopify when a file is changed. Very similar functionality to [guard-shopify](https://github.com/1337807/guard-shopify), except that it uses the [shopify_theme](https://github.com/Shopify/shopify_theme) gem to do most of the work. This has a couple of advantages:
